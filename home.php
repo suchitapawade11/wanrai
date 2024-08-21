@@ -8,6 +8,8 @@
         <link rel="icon" href="images/icons/favicon.png"/>
         <title>Wanrai Tadoba Home Stay</title>
 
+
+
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -229,7 +231,7 @@ margin-top:-1rem;
                                 <div class="service-image">
                                     <img alt="image" class="img-responsive" src="images/icons/car.png">
                                 </div>
-                                <h4><a>free parking</a></h4>
+                                <h4><a>free parking available</a></h4>
                             </div>
                         </div>
                         <div class="col-md-2 col-sm-2 col-xs-6 mt-25">
